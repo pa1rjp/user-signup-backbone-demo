@@ -1,0 +1,31 @@
+.highlight {
+    padding: 30px;
+    margin-bottom: 14px;
+    background-color: #f7f7f9;
+    border: 1px solid #5cb85c;
+    border-radius: 4px;
+}
+.break {
+	margin-top: 30px;
+}
+.img-circle {
+	width: 140px; 
+	height: 140px;
+}
+.table-hover>tbody>tr:hover {
+    background-color: #ffffff;
+}
+.btn, .navbar a {
+	text-decoration: none;
+}
+a {
+	color: #5cb85c;
+	text-decoration: underline;
+}
+a:hover {
+	color: #4cae4c;
+}
+.navbar-text {
+	color: #5cb85c !important;
+	margin-left: 40%;
+}
